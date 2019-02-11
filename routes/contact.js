@@ -1,4 +1,4 @@
-let express = require('express');
+/*let express = require('express');
 let router = express.Router();
 let mongoose = require('mongoose');
 
@@ -6,7 +6,7 @@ let mongoose = require('mongoose');
 let contact = require('../models/contact');
 
 /* GET Contact List page - READ Operation */
-router.get('/', (req, res, next) =>{
+/*router.get('/', (req, res, next) =>{
     contact.find((err, contactList) => {
         if(err) {
             return console.error(err);
@@ -23,4 +23,4 @@ router.get('/', (req, res, next) =>{
     });
 });
 
-module.exports = router;
+module.exports = router; */

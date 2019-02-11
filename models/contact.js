@@ -1,4 +1,4 @@
-let mongoose = require('mongoose');
+/*let mongoose = require('mongoose');
 
 // create a model class
 let contactSchema = mongoose.Schema({
@@ -10,4 +10,4 @@ let contactSchema = mongoose.Schema({
     collection: "first"
 });
 
-module.exports = mongoose.model('test', contactSchema);
+module.exports = mongoose.model('test', contactSchema); */

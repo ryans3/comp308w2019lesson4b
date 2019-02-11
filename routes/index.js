@@ -22,8 +22,8 @@ router.get('/services', function(req, res, next) {
 });
 
 /* GET contact page. */
-router.get('/contact', function(req, res, next) {
-  res.render('index', { title: 'Contact' });
+router.get('/fthing', function(req, res, next) {
+  res.render('index', { title: 'Favourite Things' });
 });
 
 
