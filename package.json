@@ -24,7 +24,7 @@
   },
   "description": "Mongo and Mongoose Demo",
   "main": "server.js",
-  "author": "Tom Tsiliopoulos",
+  "author": "Ryan Sterling",
   "license": "ISC",
   "devDependencies": {
     "@types/body-parser": "^1.17.0",
@@ -36,10 +36,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CentennialCollege/COMP308-W2019-Lesson4B.git"
+    "url": "git+https://github.com/ryans3/comp308w2019lesson4b.git"
   },
   "bugs": {
-    "url": "https://github.com/CentennialCollege/COMP308-W2019-Lesson4B/issues"
+    "url": "https://github.com/ryans3/comp308w2019lesson4b/issues"
   },
-  "homepage": "https://github.com/CentennialCollege/COMP308-W2019-Lesson4B#readme"
+  "homepage": "https://github.com/ryans3/comp308w2019lesson4b#readme"
 }
